@@ -1,0 +1,8 @@
+name: 'Custom form'
+type: module
+description: 'My Awesome Module'
+core_version_requirement: ^8 || ^9
+package: 'Custom'
+access custom form:
+  title: 'Access custom form'
+  description: 'Allow access to the custom form'

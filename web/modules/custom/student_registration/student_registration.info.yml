@@ -1,0 +1,5 @@
+name: Student Registration
+type: module
+description: Module for implementing custom form for student registration.
+package: Custom
+core_version_requirement: ^8.8 || ^9

@@ -1,0 +1,7 @@
+my_module.mycontroller:
+  path: '/mycontrollerindex'
+  defaults:
+    _controller: 'Drupal\my_module\Controller\MyController::index'
+    _title: 'My Controller Index'
+  requirements:
+    _permission: 'access content'

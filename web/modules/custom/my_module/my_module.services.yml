@@ -1,0 +1,3 @@
+services:
+  my_module.myservice:
+    class: Drupal\my_module\MyService

@@ -1,0 +1,7 @@
+contact_info.message:
+  path: '/contact-info'
+  defaults:
+    _form: '\Drupal\contact_info\Form\ContactInfo'
+    _title: 'Contact Information'
+  requirements:
+    _permission: 'access content's
